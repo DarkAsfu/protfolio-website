@@ -114,21 +114,22 @@ nav ul{
 main{
    max-width: 1140px;
    margin: 0 auto; 
-   height: 550px;  
+   height: 550px;
+   margin-bottom: 100px;  
 }
 .about{
     margin-top: 130px;
     background-color: #FFF8F3;
     padding: 131px 157px;
 }
-.about .section-title{
+.section-title{
     text-align: center;
     padding-bottom: 30px;
     font-weight: 700;
     font-size: 35px;
 
 }
-.about .section-desc{
+.section-desc{
     text-align: center;
     font-weight: 400;
     font-size: 18px;
@@ -157,3 +158,9 @@ main{
     text-align: center;
     color: #474747;
 }
+
+.whatIdo{
+    padding: 0 157px;
+    
+}
+.whatIdo .section-desc
