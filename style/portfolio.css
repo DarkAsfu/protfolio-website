@@ -252,6 +252,7 @@ hr{
 
 footer{
     background-color: #FFF8F3;
+    padding-bottom:40px;
 }
 
 .contact-form{
@@ -264,9 +265,7 @@ footer{
 .contact-form .contact, form{
     width: 562px;
 }
-.contact-form .section-desc, .section-title{
-    text-align: left;
-}
+
 input, textarea{
     display: block;
     margin-bottom: 24px;
@@ -279,4 +278,10 @@ input{
 }
 footer .btn{
     margin-top: 15px;
+}
+.section-title-last{
+    text-align: left;
+    padding-bottom: 30px;
+    font-weight: 700;
+    font-size: 35px;
 }
